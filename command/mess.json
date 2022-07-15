@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "_Proses © 𝙕𝙮𝙠𝙪𝙖𝙣_",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
+        "Iv": "Link nya ga valid, bener dikit lah anj",
         "api": "Maaf terjadi kesalahan"
     },
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
     "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "BotAdmin": "Bot jadiin Admin lah xontol",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh Zykuan-Kun",
+    "OnlyPrem": "Awokawok ga Prem mau pake fitur ini"
 }
